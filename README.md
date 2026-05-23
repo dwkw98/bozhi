@@ -1,4 +1,4 @@
-# 博知 (Bozhi)
+# 博知 (Bozhi)  
 
 Bozhi is an open-source social platform where users can share posts, interact with others, and stay updated with trending topics.
 The interface is in Chinese, so foreign users may need translation support.
